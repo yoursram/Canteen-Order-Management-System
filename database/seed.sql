@@ -1,0 +1,3 @@
+-- SQL Seed Script Placeholder
+-- Primary data seeding is performed automatically via server/scripts/seedDatabase.js
+-- which parses realistic JSON seed datasets from server/data/*.json into MySQL.

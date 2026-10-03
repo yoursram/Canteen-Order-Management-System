@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Breakfast",
+    "description": "Authentic South Indian hot breakfast items served fresh daily."
+  },
+  {
+    "id": 2,
+    "name": "South Indian Meals",
+    "description": "Traditional thali meals, sambar rice, curd rice, and specialty rice bowls."
+  },
+  {
+    "id": 3,
+    "name": "Rice Items",
+    "description": "Flavorful fried rice and biryani preparations cooked with aromatic spices."
+  },
+  {
+    "id": 4,
+    "name": "Snacks",
+    "description": "Crispy South Indian tea-time snacks, bajjis, samosas, and puffs."
+  },
+  {
+    "id": 5,
+    "name": "Fast Food",
+    "description": "Quick bite sandwiches, rolls, burgers, and noodles."
+  },
+  {
+    "id": 6,
+    "name": "Beverages",
+    "description": "Hot filter coffee, chai, fresh lime, buttermilk, and cold beverages."
+  },
+  {
+    "id": 7,
+    "name": "Desserts",
+    "description": "Sweet treats, jamun, and ice creams."
+  },
+  {
+    "id": 8,
+    "name": "Combos",
+    "description": "Value meal combos specially curated for college students."
+  }
+]
