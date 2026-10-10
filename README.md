@@ -19,3 +19,12 @@ college-canteen-management/
 ├── docs/            # Architecture & API Specifications
 └── README.md
 ```
+
+## Deploying to Vercel
+
+The repository-root `vercel.json` defines a Vite `client` service and an
+Express `server` service. Requests to `/api/*` are routed to the server; all
+other paths are served by the client. Configure the server's MySQL connection
+variables (`DB_HOST`, `DB_PORT`, `DB_USER`, `DB_PASSWORD`, and `DB_NAME`) and
+`JWT_SECRET` in the Vercel project's environment settings. The database must
+be reachable from Vercel.
